@@ -6,6 +6,6 @@ A live environment is found [here](https://jiyorude.github.io/react-ColorPicker)
 
 ### Credits
 ```
-Color Picker Icon by freePik
+Color Picker Icon by Freepik
 Assignment found in Dave Gray's React Course
 ```
